@@ -1,0 +1,32 @@
+{
+  "formatVersion" : 1,
+  "passTypeIdentifier" : "pass.com.lollipoptest",
+  "serialNumber" : "gT6zrHkaW",
+  "teamIdentifier" : "92H96YM9AP",
+  "relevantDate" : "2012-07-22T14:25-08:00",
+  "locations" : [
+    {
+      "longitude" : -122.3748889,
+      "latitude" : 37.6189722
+    }
+  ],
+  "barcode" : {
+    "message" : "SFOJFK JOHN APPLESEED LH451 2012-07-22T14:25-08:00",
+    "format" : "PKBarcodeFormatPDF417",
+    "messageEncoding" : "iso-8859-1"
+  },
+  "organizationName": "Le Shake Inc",
+  "description": "Coupon for a free lollipop at Example Candy Store",
+  "logoText": "Example Candy Store",
+  "foregroundColor": "rgb(255, 255, 255)",
+  "backgroundColor": "rgb(206, 140, 53)",
+  "coupon": {
+    "primaryFields": [
+      {
+        "key": "offer",
+        "value": "Free lollipop",
+        "label": "On July 29"
+      }
+    ]
+  }
+}

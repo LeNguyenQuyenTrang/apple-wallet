@@ -1,0 +1,59 @@
+{
+  "formatVersion": 1,
+  "serialNumber": "gT6zrHkaW",
+  "passTypeIdentifier": "pass.com.lollipoptest",
+  "teamIdentifier": "92H96YM9AP",
+  "locations": [
+    {
+      "longitude": 103.83162729361518,
+      "latitude": 1.3044326523064365,
+      "relevantText" : "The Marmalade Pantry ION is nearby now. Don't miss out on this great offer."
+    },
+    {
+      "longitude": 103.84428239575162,
+      "latitude": 1.2760495222241761,
+      "relevantText" : "The Marmalade Pantry Downtown is nearby now. Don't miss out on this great offer."
+    },
+    {
+      "longitude": 103.80512983993206,
+      "latitude": 1.2889422166427809,
+      "relevantText" : "The Marmalade Anchorpoint is nearby now. Don't miss out on this great offer."
+    },
+    {
+      "longitude": 103.85810426109597,
+      "latitude": 1.2994935592378212,
+      "relevantText" : "Welcome to Mastercard."
+    }
+  ],
+  "organizationName": "Le Shake Inc",
+  "description": "Coupon for a free lollipop at Example Candy Store",
+  "logoText": "Candy Store",
+  "foregroundColor": "rgb(255, 255, 255)",
+  "backgroundColor": "rgb(206, 140, 53)",
+  "coupon": {
+    "primaryFields": [
+      {
+        "key": "offer",
+        "value": "Sweet",
+        "label": "Free all lollipop"
+      }
+    ],
+    "secondaryFields" : [
+      {
+          "key" : "offer-second",
+          "label" : "",
+          "textAlignment": "PKTextAlignmentNatural",
+          "value" : "Earn up to 17% Dollars $ rebates at The Marmalade Pantry when you sign up with TriplePlus and pay with Mastercard®."
+      }
+    ],
+    "auxiliaryFields": [
+      {
+        "key": "expires",
+        "label": "EXPIRES",
+        "value": "2023-12-24T10:00-05:00",
+        "isRelative": true,
+        "dateStyle": "PKDateStyleShort"
+      }
+    ]
+  }
+}
